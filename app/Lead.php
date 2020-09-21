@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Leads;
+namespace App;
 
 use App\Market;
 use Illuminate\Database\Eloquent\Model;
